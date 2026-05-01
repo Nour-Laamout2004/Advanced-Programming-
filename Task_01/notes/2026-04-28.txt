@@ -1,0 +1,3 @@
+User: nour
+Current Path: /home/nour/Task1
+Total files in data folder:0
